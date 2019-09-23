@@ -6,50 +6,49 @@ best practices and Android API.
 
 ## Week 1
 
-* [HelloAndroid](HelloAndroid/)
-* [TheAnswer](./TheAnswer/)
+* [HelloAndroid]
+* [TheAnswer]
 
 ## Week 2
 
-* [AppFundamentalsVideoSourceExamples](./AppFundamentalsVideoSourceExamples/)
-* [MapLocation](./MapLocation/)
-* [MapLocationFromContacts](./MapLocationFromContacts/)
-
+* [AppFundamentalsVideoSourceExamples]
+* [MapLocation]
+* [MapLocationFromContacts]
 ## Week 3
 
-* [FragmentDynamicLayout](./FragmentDynamicLayout/)
-* [FragmentDynamicLayoutWithActionBar](./FragmentDynamicLayoutWithActionBar/)
-* [FragmentProgrammaticLayout](./FragmentProgrammaticLayout/)
-* [FragmentQuoteViewerWithActivity](./FragmentQuoteViewerWithActivity/)
-* [FragmentStaticConfigLayout](./FragmentStaticConfigLayout/)
-* [FragmentStaticLayout](./FragmentStaticLayout/)
-* [PermissionExampleBoom](./PermissionExampleBoom/)
-* [PermissionExampleBoomUser](./PermissionExampleBoomUser/)
+* [FragmentDynamicLayout]
+* [FragmentDynamicLayoutWithActionBar]
+* [FragmentProgrammaticLayout]
+* [FragmentQuoteViewerWithActivity]
+* [FragmentStaticConfigLayout]
+* [FragmentStaticLayout]
+* [PermissionExampleBoom]
+* [PermissionExampleBoomUser]
 
 ## Week 4
 
-* [HelloAndroidWithMenus](./HelloAndroidWithMenus/)
-* [UIAlertDialog](./UIAlertDialog/)
-* [UIAutoComplete](./UIAutoComplete/)
-* [UIButton](./UIButton/)
-* [UICheckBox](./UICheckBox/)
-* [UIDatePicker](./UIDatePicker/)
-* [UIGallery](./UIGallery/)
-* [UIGoogleMaps](./UIGoogleMaps/)
-* [UIGridLayout](./UIGridLayout/)
-* [UILinearLayout](./UILinearLayout/)
-* [UIListView](./UIListView/)
-* [UIRadioGroup](./UIRadioGroup/)
-* [UIRatingsBar](./UIRatingsBar/)
-* [UIRelativeLayout](./UIRelativeLayout/)
-* [UISampler](./UISampler/)
-* [UISpinner](./UISpinner/)
-* [UITabLayout](./UITabLayout/)
-* [UITableLayout](./UITableLayout/)
-* [UITimePicker](./UITimePicker/)
-* [UIToggleButton](./UIToggleButton/)
-* [UIWebView](./UIWebView/)
-* [google-play-services_lib](./google-play-services_lib/)
+* [HelloAndroidWithMenus]
+* [UIAlertDialog]
+* [UIAutoComplete]
+* [UIButton]
+* [UICheckBox]
+* [UIDatePicker]
+* [UIGallery]
+* [UIGoogleMaps]
+* [UIGridLayout]
+* [UILinearLayout]
+* [UIListView]
+* [UIRadioGroup]
+* [UIRatingsBar]
+* [UIRelativeLayout]
+* [UISampler]
+* [UISpinner]
+* [UITabLayout]
+* [UITableLayout]
+* [UITimePicker]
+* [UIToggleButton]
+* [UIWebView]
+* [google-play-services_lib]
 
 ## Week 5
 
