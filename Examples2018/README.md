@@ -6,7 +6,7 @@ best practices and Android API.
 
 ## Week 1
 
-* [HelloAndroid](./HelloAndroid/)
+* [HelloAndroid](HelloAndroid/)
 * [TheAnswer](./TheAnswer/)
 
 ## Week 2
